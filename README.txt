@@ -1,7 +1,3 @@
-Program in progress-
-
-Encrypts phrase input and outputs to file.
-
-feature in progress-
-
-input encrypted file and output readable phrase
+Minor encryption program. 
+takes input shuffles letters and outputs.
+can take in encrypted phrases and decrypt
